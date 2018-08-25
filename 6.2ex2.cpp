@@ -60,3 +60,9 @@ int main()
      o3.get_xy(x,y);
      cout<<"(o1=o3) X : "<<x<<", Y : "<<y<<endl;
 }
+/*
+output:
+(o1+o2) X : 15, Y : 13
+(o1-o2) X : 5, Y : 7
+(o1=o3) X : 10, Y : 10
+*/
